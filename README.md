@@ -4,7 +4,7 @@
 ### Hi there! 👋
 
 I'm a Java developer that codes algorithms and Minecraft mods!
-[![Anksharskarp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anksharskarp)](https://github.com/anuraghazra/github-readme-stats)
+[![Anksharskarp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anksharskarp&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
