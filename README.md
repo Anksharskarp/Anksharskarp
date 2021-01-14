@@ -5,6 +5,7 @@
 
 I'm a Java developer that codes algorithms and Minecraft mods!
 [![Anksharskarp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anksharskarp)](https://github.com/anuraghazra/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Fabric Minecraft Mods and implementing algorithms in Java!
