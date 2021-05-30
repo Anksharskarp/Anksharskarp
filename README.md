@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java algorithms and Python Web-Scraping.
 - 🖥 I’m looking to collaborate on any Minecraft mod made with Fabric or Forge.
 - 🤔 I’m looking for help with algorithms and competitive programming
-- 💬 Ask me about the Fabric API
+- 💬 Ask me about Minecraft Forge, FabricMC, and Android
 - 📫 How to reach me: aerialconnection98@gmail.com
 - 🎶 Fun fact: I play the violin 🎻
