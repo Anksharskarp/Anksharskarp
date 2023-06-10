@@ -25,8 +25,8 @@ Here are some quick facts about me:
     - Codeforces ([@Anksharskarp](https://codeforces.com/profile/Anksharskarp)
     - CodeChef [@Anksharskarp](https://www.codechef.com/users/anksharskarp)
 
-- 💬 Ask me about Discrete math, React Native, Java, C/C++, video game modding, and programming contests.
+- 💬 Ask me about discrete math, React Native, Java, C/C++, video game modding, and programming contests.
 - 📫 How to reach me: [anksharskarp@gmail.com](anksharskarp@gmail.com)
 - 🖥️ Connect via Discord: Anksharskarp#5814
-- 🎶 Fun fact: I play the violin 🎻 and enjoy 3D design and graphical modeling 🔧. Currently stumbling through USACO Gold 🏅 and trying (albeit  unsuccessfully) to figure out linear algebra.
+- 🎶 Fun fact: I play the violin 🎻 and enjoy 3D design and graphical modeling 🔧. Currently stumbling through USACO Gold 🏅 and trying (albeit  unsuccessfully) to figure out what a tensor is.
 Check out my repositories, and open pull requests/issues with anything cool you want to have added!
