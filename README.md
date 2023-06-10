@@ -22,8 +22,8 @@ Here are some quick facts about me:
     - PicoCTF
     - pingCTF
     - GlacierCTF
-    - Codeforces [@Anksharskarp](https://codeforces.com/profile/Anksharskarp)
-    - CodeChef [@Anksharskarp](https://www.codechef.com/users/anksharskarp)
+    - Codeforces @ [Anksharskarp](https://codeforces.com/profile/Anksharskarp)
+    - CodeChef @ [Anksharskarp](https://www.codechef.com/users/anksharskarp)
 
 - 💬 Ask me about discrete math, React Native, Java, C/C++, video game modding, and programming contests.
 - 📫 How to reach me: [anksharskarp@gmail.com](anksharskarp@gmail.com)
