@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-❗ **NOTICE (6/10/2023):** *Limited availability in July through August 2023 due to the MathILy program at Bryn Mawr College. Regular availability returns in September 2023.*
+❗ **NOTICE (6/10/2023):** *Limited availability in July through August 2023 due to the MathILy program at Bryn Mawr College. Regular availability expected to return in September 2023.*
 
 I'm a multiplatform developer that builds web/mobile applications and video game mods!
 
