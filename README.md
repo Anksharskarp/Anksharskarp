@@ -17,8 +17,16 @@ Here are some quick facts about me:
 - 🌱 I’m currently learning Calculus, Cryptography, Cybersecurity, Data Structures and Algorithms, C/C++, and Chemistry.
 - 🖥 I’m looking to collaborate on software applications spanning desktops and mobile devices.
 - 🤔 I’m looking for help with cybersecurity and network programming.
-- 💬 Ask me about Java, C/C++, Minecraft modding, and Codeforces/Codechef/USACO!
-- 📫 How to reach me: anksharskarp@gmail.com
+- 🔒 Open to working on CTF tournaments and programming contests. Especially...
+    - AFA Cyberpatriot
+    - PicoCTF
+    - pingCTF
+    - GlacierCTF
+    - Codeforces ([@Anksharskarp](https://codeforces.com/profile/Anksharskarp)
+    - CodeChef [@Anksharskarp](https://www.codechef.com/users/anksharskarp)
+
+- 💬 Ask me about Discrete math, React Native, Java, C/C++, video game modding, and programming contests.
+- 📫 How to reach me: [anksharskarp@gmail.com](anksharskarp@gmail.com)
 - 🖥️ Connect via Discord: Anksharskarp#5814
 - 🎶 Fun fact: I play the violin 🎻 and enjoy 3D design and graphical modeling 🔧. Currently stumbling through USACO Gold 🏅 and trying (albeit  unsuccessfully) to figure out linear algebra.
 Check out my repositories, and open pull requests/issues with anything cool you want to have added!
