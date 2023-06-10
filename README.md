@@ -1,5 +1,7 @@
 ### Hey there! 👋
 
+❗ **NOTICE (6/10/2023):** *Limited availability in July through August 2023 due to the MathILy program at Bryn Mawr College. Regular software engineering availability expected to return in September 2023.*
+
 I'm a multiplatform developer that builds web/mobile applications and video game mods!
 
 [![Anksharskarp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anksharskarp&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
