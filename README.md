@@ -18,5 +18,5 @@ Here are some quick facts about me:
 - 💬 Ask me about Java, C/C++, Minecraft modding, and Codeforces/Codechef/USACO!
 - 📫 How to reach me: anksharskarp@gmail.com
 - 🖥️ Connect via Discord: Anksharskarp#5814
-- 🎶 Fun fact: I play the violin 🎻 and enjoy 3D design and graphical modeling 🔧. Currently hardstuck USACO Gold 🏅 and trying to figure out how linear algebra works.
+- 🎶 Fun fact: I play the violin 🎻 and enjoy 3D design and graphical modeling 🔧. Currently stumbling through USACO Gold 🏅 and trying (albeit  unsuccessfully) to figure out linear algebra.
 Check out my repositories, and open pull requests/issues with anything cool you want to have added!
