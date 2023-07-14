@@ -17,7 +17,7 @@ I'm a multiplatform developer that builds web/mobile applications and video game
 Here are some quick facts about me:
 
 - 🔭 I’m currently exploring and working on multiplatform applications and contest programming.
-- 🌱 I’m currently learning Calculus, Cryptography, Cybersecurity, Data Structures and Algorithms, C/C++, and Chemistry.
+- 🌱 I’m currently learning Linear Algebra, Cryptography, Cybersecurity, Data Structures and Algorithms, C/C++, and Chemistry.
 - 🖥 I’m looking to collaborate on software applications spanning desktops and mobile devices.
 - 🤔 I’m looking for help with cybersecurity and network programming.
 - 🔒 Open to working on CTF tournaments and programming contests. Especially...
