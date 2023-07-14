@@ -2,7 +2,7 @@
 
 ❗ **NOTICE (6/10/2023):** *Limited availability in July through early August 2023 due to SSP. Regular availability expected to return in September 2023.*
 
-Interested in joining SSP?
+Interested in joining SSP? 🔬 🧫
 Learn more at: [https://summerscience.org/](https://summerscience.org/)
 
 I'm a multiplatform developer that builds web/mobile applications and video game mods!
