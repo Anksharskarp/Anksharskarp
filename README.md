@@ -1,10 +1,5 @@
 ### Hey there! 👋
 
----
-Interested in joining SSP? 🔬 🧫
-<br>
-Learn more at: [https://summerscience.org/](https://summerscience.org/)
----
 I'm a multiplatform developer that builds web/mobile applications and video game mods!
 
 [![Anksharskarp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anksharskarp&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
@@ -33,3 +28,9 @@ Here are some quick facts about me:
 - 🖥️ Connect via Discord: Anksharskarp#5814
 - 🎶 Fun fact: I play the violin 🎻 and enjoy 3D design and graphical modeling 🔧. Currently stumbling through USACO Gold 🏅 and trying (albeit  unsuccessfully) to figure out what a tensor is.
 Check out my repositories, and open pull requests/issues with anything cool you want to have added!
+
+---
+Interested in joining SSP? 🔬 🧫
+<br>
+Learn more at: [https://summerscience.org/](https://summerscience.org/)
+---
