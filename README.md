@@ -20,9 +20,9 @@ Here are some quick facts about me:
     - PicoCTF
     - pingCTF
     - GlacierCTF
-    - Codeforces @ [Anksharskarp](https://codeforces.com/profile/Anksharskarp)
-    - CodeChef @ [Anksharskarp](https://www.codechef.com/users/anksharskarp)
+    - Codeforces
+    - CodeChef
 
 - 💬 Ask me about discrete math, React Native, Java, C/C++, video game modding, and programming contests.
-- 🎶 Fun fact: I play the violin 🎻 and enjoy 3D design and graphical modeling 🔧. Currently stumbling through USACO Gold 🏅 and trying (albeit  unsuccessfully) to figure out what a tensor is.
+- 🎶 Fun fact: I play the violin 🎻 and enjoy 3D design and graphical modeling 🔧.
 Check out my repositories, and open pull requests/issues with anything cool you want to have added!
