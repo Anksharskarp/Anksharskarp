@@ -6,8 +6,6 @@ I'm a multiplatform developer that builds web/mobile applications and video game
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anksharskarp&count_private=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 Here are some quick facts about me:
 
