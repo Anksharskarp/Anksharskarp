@@ -2,8 +2,6 @@
 
 I'm a multiplatform developer that builds web/mobile applications and video game mods!
 
-[![Anksharskarp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anksharskarp&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anksharskarp&count_private=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 
