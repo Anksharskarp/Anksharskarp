@@ -16,5 +16,5 @@ I'm a multiplatform developer. Check out my personal website at: [williamzhang.t
 ### Contact Me
 Email:
 ```
-System.out.printf("zhan%d@purdue.edu", 5639);
+String.format("zhan%d@purdue.edu", 5639);
 ```
